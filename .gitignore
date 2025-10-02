@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven/Build
+/target/
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+
+# Java
+hs_err_pid*
+replay_pid*
+
+# H2
+*.h2.db
+
+# Node artifacts if any static tooling is added later
+node_modules/

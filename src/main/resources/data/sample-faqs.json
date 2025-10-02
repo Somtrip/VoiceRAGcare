@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "We offer a 30-day return policy for all items. Items must be in original condition with tags attached. Returns are processed within 5-7 business days of receipt.",
+    "category": "returns",
+    "sourceDocument": "Returns Policy"
+  },
+  {
+    "question": "How do I return an item?",
+    "answer": "To return an item, log into your account, go to 'My Orders', select the item you want to return, and follow the return process. You'll receive a prepaid return label via email.",
+    "category": "returns",
+    "sourceDocument": "Returns Policy"
+  },
+  {
+    "question": "Can I return items without a receipt?",
+    "answer": "Returns without receipt are accepted within 30 days with valid ID. Refund will be issued as store credit at the lowest selling price in the last 90 days.",
+    "category": "returns",
+    "sourceDocument": "Returns Policy"
+  },
+  {
+    "question": "What items cannot be returned?",
+    "answer": "Personalized items, final sale items, intimate apparel, and items used or damaged by customer cannot be returned. Gift cards are also non-returnable.",
+    "category": "returns",
+    "sourceDocument": "Returns Policy"
+  },
+  {
+    "question": "How long does a return take to process?",
+    "answer": "Returns are processed within 5-7 business days of receipt at our warehouse. Refunds appear on your original payment method within 3-5 business days after processing.",
+    "category": "returns",
+    "sourceDocument": "Returns Policy"
+  },
+  {
+    "question": "What shipping options do you offer?",
+    "answer": "We offer standard shipping (5-7 days), expedited shipping (2-3 days), and overnight shipping. Free standard shipping on orders over $50.",
+    "category": "shipping",
+    "sourceDocument": "Shipping Policy"
+  },
+  {
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 100 countries worldwide. International shipping takes 7-14 business days. Customs fees may apply.",
+    "category": "shipping",
+    "sourceDocument": "Shipping Policy"
+  },
+  {
+    "question": "Can I change my shipping address?",
+    "answer": "Shipping address can be changed within 2 hours of placing the order. After that, please contact customer service for assistance.",
+    "category": "shipping",
+    "sourceDocument": "Shipping Policy"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, Apple Pay, Google Pay, and gift cards.",
+    "category": "billing",
+    "sourceDocument": "Payment Policy"
+  },
+  {
+    "question": "Is my payment information secure?",
+    "answer": "Yes, we use SSL encryption and PCI DSS compliant payment processing. Your payment information is never stored on our servers.",
+    "category": "billing",
+    "sourceDocument": "Payment Policy"
+  },
+  {
+    "question": "Can I use multiple payment methods for one order?",
+    "answer": "Currently, we only accept one payment method per order. You can use gift cards in combination with one other payment method.",
+    "category": "billing",
+    "sourceDocument": "Payment Policy"
+  },
+  {
+    "question": "How do I contact customer service?",
+    "answer": "You can contact us via phone at 1-800-CUSTOMER (Mon-Fri 9AM-8PM EST), email at support@company.com, or live chat on our website.",
+    "category": "support",
+    "sourceDocument": "Contact Information"
+  },
+  {
+    "question": "What are your business hours?",
+    "answer": "Our customer service is available Monday-Friday 9AM-8PM EST, Saturday 10AM-6PM EST. Our website is available 24/7 for online orders.",
+    "category": "support",
+    "sourceDocument": "Contact Information"
+  },
+  {
+    "question": "Do you have a size guide?",
+    "answer": "Yes, each product page includes a detailed size guide. You can also find our general size chart in the footer under 'Size Guide'.",
+    "category": "product",
+    "sourceDocument": "Product Information"
+  },
+  {
+    "question": "What if an item is out of stock?",
+    "answer": "If an item is out of stock, you can sign up for restock notifications. We'll email you when the item becomes available again.",
+    "category": "product",
+    "sourceDocument": "Product Information"
+  }
+]
